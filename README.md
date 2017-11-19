@@ -1,2 +1,2 @@
 # Smartcab
-Reinforcement learning for self-driving cara
+Reinforcement learning for self-driving car.
